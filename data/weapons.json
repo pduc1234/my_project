@@ -1,0 +1,74 @@
+{
+  "<:spikedbat:1276966695361052747>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 1,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:sword:1276966562993012769>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 2,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:wand:1276966512929931356>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 2,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:suriken:1276966501496389632>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 2,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:scythe:1276966473314734200>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 3,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:bow:1276966458298990634>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 2,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:axe:1276966446152290398>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 1.5,
+    "health": 0,
+    "defense": 0,
+    "level": 1,
+    "exp_needed": 100
+  },
+  "<:shield:1276966485776011335>": {
+    "price": 100,
+    "drop_rate": 0.1,
+    "attack": 0,
+    "health": 0,
+    "defense": 3,
+    "level": 1,
+    "exp_needed": 100
+  }
+}

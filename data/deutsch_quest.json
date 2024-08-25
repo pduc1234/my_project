@@ -1,0 +1,318 @@
+{
+  "TestA1": {
+    "easy": [
+      {
+        "question": "Wie ist das Wetter heute? - ___ sonnig.",
+        "options": ["Es heute ist", "Heute ist es", "Heute es ist","Es ist heute"],
+        "answer": "Heute ist es"
+      },
+      {
+        "question": "War es schön im Park? - Ja, danke, wir ___ viel Spaß.",
+        "options": ["hatten", "waren", "haben","sind"],
+        "answer": "haben"
+      },
+      {
+        "question": "Was brauchen wir für das Kinderzimmer? - Wir kaufen ___ Tisch.",
+        "options": ["eine", "einen", "kein","ein"],
+        "answer": "einen"
+      },
+      {
+        "question": "Magst du morgen mit uns ins Kino? - Nein, leider ___ ich morgen arbeiten.",
+        "options": ["möchte", "kann", "will","muss"],
+        "answer": "muss"
+      },
+      {
+        "question": "Ich fahre um 08:00 Uhr. Und wann ___ du? – Ich fahre um 08:30 Uhr los.",
+        "options": ["fährt", "fährst", "fahre","fahren"],
+        "answer": "fährst"
+      },
+      {
+        "question": "Entschuldigung, wo sind hier die Toiletten? – ___ die Treppe runter und dann links. – Vielen Dank!",
+        "options": ["Hier Sie gehen", "Gehen Sie hier", "Hier gehen","Gehen hier Sie"],
+        "answer": "Gehen Sie hier"
+      },
+      {
+        "question": "Hallo, Herr Maier. ___ ? - Danke, gut. Und Ihnen?",
+        "options": ["Wie geht es dir", "Wie heißt du", "Wie gehen","Wie geht es Ihnen"],
+        "answer": "Wie geht es Ihnen"
+      },
+      {
+        "question": "Isst du gern Eis? - Ja, ich ___ Eis.",
+        "options": ["mache", "kaufe", "mag","suche"],
+        "answer": "mag"
+      },
+      {
+        "question": "Könnte ich mal bitte Ihr Telefon benutzen? - Ja, ___ . - Danke sehr.",
+        "options": ["hier bitte, gerne", "danke Ihnen", "bitte nicht","ich telefoniere"],
+        "answer": "hier bitte, gerne"
+      },
+      {
+        "question": "Ich komme aus Italien. Und ___ kommen Sie? Ich komme aus Russland.",
+        "options": ["was", "woher", "wo","wer"],
+        "answer": "woher"
+      },
+      {
+        "question": "Was möchten Sie trinken? - Für mich bitte einen Kaffee. - Und ich ___ bitte einen Tee.",
+        "options": ["nimmst", "nimmt", "nehme","nehmen"],
+        "answer": "nehme"
+      },
+      {
+        "question": "Wann ist das Fest von Maria? - ___ Samstag.",
+        "options": ["Um", "Am", "Zum","Beim"],
+        "answer": "Am"
+      },
+      {
+        "question": "Mir ist kalt. Bitte ___ das Fenster zu.",
+        "options": ["kann", "öffne", "will","mach"],
+        "answer": "mach"
+      },
+      {
+        "question": "Ist das ein Brief von Niklas? - Nein, das ist ___ Brief von Niklas. Das ist ein Brief von Simona.",
+        "options": ["kein", "ein", "nicht","keiner"],
+        "answer": "kein"
+      },
+      {
+        "question": "Was essen wir denn heute Abend? - Heute essen wir ___ Suppe.",
+        "options": ["das", "eine", "die","ein"],
+        "answer": "eine"
+      },
+      {
+        "question": "Wo sind die Autoschlüssel? - Hier sind sie, ___ Schublade. - Vielen Dank!",
+        "options": ["auf dem", "in die", "in der","aus dem"],
+        "answer": "in der"
+      },
+      {
+        "question": "Entschuldigung.... Wann fängt das Konzert an, bitte? - Das Konzert fängt ___ 19 Uhr an. Vielen Dank!",
+        "options": ["um", "an", "bei","in"],
+        "answer": "um"
+      },
+      {
+        "question": "Paula, ist das dein Hund? - Ja, das ist ___ Hund Bello.",
+        "options": ["unsere", "deine", "ihr","mein"],
+        "answer": "mein"
+      },
+      {
+        "question": "Woher kommen Sie? - Ich komme ___ Frankreich.",
+        "options": ["von", "aus", "nach","zu"],
+        "answer": "aus"
+      },
+      {
+        "question": "Mein Name ist Mia. Und wie heißen Sie? - Sehr erfreut, ich ___ Tom.",
+        "options": ["heißen", "war", "heiße","mache"],
+        "answer": "heiße"
+      }
+    ]
+  },
+  "Nominativ": {
+    "easy": [
+      {
+        "question": "___ Mann ist alt.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Der"
+      },
+      {
+        "question": "___ Frau ist jung.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Die"
+      },
+      {
+        "question": "___ Kind spielt.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Das"
+      }
+    ],
+    "medium": [
+      {
+        "question": "___ Lehrer ist nett.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Der"
+      },
+      {
+        "question": "___ Katze schläft.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Die"
+      },
+      {
+        "question": "___ Buch ist interessant.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Das"
+      }
+    ],
+    "hard": [
+      {
+        "question": "___ Hund bellt laut.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Der"
+      },
+      {
+        "question": "___ Blume ist schön.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Die"
+      },
+      {
+        "question": "___ Auto ist schnell.",
+        "options": ["Der", "Die", "Das"],
+        "answer": "Das"
+      }
+    ]
+  },
+  "Akkusativ": {
+    "easy": [
+      {
+        "question": "Ich sehe ___ Mann.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      },
+      {
+        "question": "Er kauft ___ Apfel.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      },
+      {
+        "question": "Wir haben ___ Buch.",
+        "options": ["den", "die", "das"],
+        "answer": "das"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Sie trägt ___ Rock.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      },
+      {
+        "question": "Er findet ___ Tasche.",
+        "options": ["den", "die", "das"],
+        "answer": "die"
+      },
+      {
+        "question": "Ich habe ___ Hund.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Wir sehen ___ Film.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      },
+      {
+        "question": "Ich brauche ___ Stift.",
+        "options": ["den", "die", "das"],
+        "answer": "den"
+      },
+      {
+        "question": "Er trinkt ___ Wasser.",
+        "options": ["den", "die", "das"],
+        "answer": "das"
+      }
+    ]
+  },
+  "Possessivartikel": {
+    "easy": [
+      {
+        "question": "Das ist ___ Auto. (ich)",
+        "options": ["mein", "meine", "meinen"],
+        "answer": "mein"
+      },
+      {
+        "question": "Das ist ___ Katze. (du)",
+        "options": ["dein", "deine", "deinen"],
+        "answer": "deine"
+      },
+      {
+        "question": "Das ist ___ Buch. (er/sie/es)",
+        "options": ["sein", "seine", "seinen"],
+        "answer": "sein"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Das ist ___ Freund. (ihr)",
+        "options": ["euer", "eure", "eueren"],
+        "answer": "euer"
+      },
+      {
+        "question": "Das ist ___ Haus. (unser)",
+        "options": ["unser", "unsere", "unseren"],
+        "answer": "unser"
+      },
+      {
+        "question": "Das ist ___ Familie. (ihr)",
+        "options": ["ihr", "ihre", "ihren"],
+        "answer": "ihre"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Das ist ___ Bruder. (mein)",
+        "options": ["mein", "meine", "meinen"],
+        "answer": "mein"
+      },
+      {
+        "question": "Das ist ___ Schwester. (dein)",
+        "options": ["dein", "deine", "deinen"],
+        "answer": "deine"
+      },
+      {
+        "question": "Das ist ___ Sohn. (sein)",
+        "options": ["sein", "seine", "seinen"],
+        "answer": "sein"
+      }
+    ]
+  },
+  "Modalverb": {
+    "easy": [
+      {
+        "question": "Ich ___ (können) gut kochen.",
+        "options": ["kann", "kannst", "können"],
+        "answer": "kann"
+      },
+      {
+        "question": "Wir ___ (mögen) Pizza.",
+        "options": ["mag", "mögen", "magst"],
+        "answer": "mögen"
+      },
+      {
+        "question": "Er ___ (möchten) ein Eis.",
+        "options": ["möchte", "möchtest", "möchten"],
+        "answer": "möchte"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Ihr ___ (wollen) ins Kino gehen.",
+        "options": ["will", "wollt", "wollen"],
+        "answer": "wollt"
+      },
+      {
+        "question": "Du ___ (müssen) lernen.",
+        "options": ["muss", "musst", "müssen"],
+        "answer": "musst"
+      },
+      {
+        "question": "Sie ___ (können) Deutsch sprechen.",
+        "options": ["kann", "kannst", "können"],
+        "answer": "können"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Wir ___ (möchten) nach Hause gehen.",
+        "options": ["möchte", "möchten", "möchtest"],
+        "answer": "möchten"
+      },
+      {
+        "question": "Er ___ (wollen) ein Buch lesen.",
+        "options": ["will", "willst", "wollen"],
+        "answer": "will"
+      },
+      {
+        "question": "Ihr ___ (müssen) das machen.",
+        "options": ["muss", "musst", "müsst"],
+        "answer": "müsst"
+      }
+    ]
+  }
+}
