@@ -1,2 +1,1 @@
-*Have no infomation*
-Loading...
+*Loading...*
